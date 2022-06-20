@@ -1,13 +1,8 @@
 body
 {
 text-align: center;
-<<<<<<< HEAD
-font-family: 'Courier New', Courier, monospace;
-color: darkgreen;
-=======
 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 color: #333;
->>>>>>> Cabecera
 margin: 0;
 padding: 0;
 font-size: 16px;
@@ -23,7 +18,7 @@ margin: 0 auto;
 #container h1{
     font-size:20px;
 }
-#cabecera
+/* #cabecera
 {
     background: darkgreen;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
@@ -32,10 +27,10 @@ margin: 0 auto;
     margin: 0;
     padding: 0.5em;
 
-}
-#cabeera #tagline
+} */
+/* #cabeera #tagline
 {
     padding: 0 0 0 1em;
     font-weight: bold;
     font-size: 0.8em;
-}
+} */
